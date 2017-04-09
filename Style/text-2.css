@@ -1,0 +1,776 @@
+.textbox
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 200px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox1
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 50px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox2
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 400px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox3
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 400px;
+height: 100px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox4
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 100px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox5
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 250px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox6
+{
+background: url(images/input_bg-2.png) x-repeat top left;
+border: 1px solid #d0d0d0;
+width: 150px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox7
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 250px;
+height: 150px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox8
+{
+background: url(images/input_bg-2.png) x-repeat top left;
+border: 1px solid #d0d0d0;
+width: 75px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox9
+{
+background: url(images/input_bg-2.png) x-repeat top left;
+border: 1px solid #d0d0d0;
+width: 100px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_sub_acro
+{
+background: url(images/input_bg-2.png) x-repeat top left;
+border: 1px solid #d0d0d0;
+width: 90px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.L_textbox1
+{
+background: url(images/input_bg-2.png) x-repeat top left;
+border: 1px solid #d0d0d0;
+width: 350px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+
+.textbox_Profile1
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 50px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Profile_Addr
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 400px;
+height: 100px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Year
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 50px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Name
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 270px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Rela
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 90px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Course
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 150px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Ins
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 180px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Board
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 225px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_YOP
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 115px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Ins_Name
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 700px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_EQ
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 250px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Income
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 120px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Address
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 250px;
+height: 100px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_comment
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 125px;
+height: 30px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_SubName
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 500px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_In_Sub_Name
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 150px;
+height: 50px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_In_Author
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 130px;
+height: 50px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_In_Pub
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 100px;
+height: 50px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_In_Lab_Name
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 450px;
+height: 50px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.username-field {
+	border: 0px solid #d0d0d0;
+	width: 200px;
+	height: 20px;
+	float:left;
+	margin-top: 8x;
+	margin-left: 10px;
+	background: url(images/username-field-2.html) center left no-repeat;
+}
+.textbox_Coll_Name
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 175px;
+height: 50px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_Days
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 25px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+textbox_s:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s { 
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 100px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+
+textbox_s1:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s1-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s1 { 
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 30px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s1:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+textbox_s2:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s2-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s2 { 
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 500px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s2:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+
+textbox_s3:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s3-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s3 { 
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 350px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s3:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+.textbox_tbl
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 800px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+.textbox_tbl1
+{
+background: url(images/input_bg-2.png) no-repeat top left;
+border: 1px solid #d0d0d0;
+width: 550px;
+height: 20px;
+padding: 2px;
+color: #222222;
+font-size: 14px;
+}
+
+
+textbox_s4:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s4-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s4 { 
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 175px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s4:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+textbox_s5:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s5-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s5 { 
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 300px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s5:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+textbox_s6:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s6-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s6 { 
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 260px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s6:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+
+textbox_s7:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s7-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s7 { 
+    border: 1px solid #c4c4c4; 
+    height: 100px; 
+    width: 260px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s7:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+
+
+textbox_s8:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_s8-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_s8 { 
+	
+    border: 1px solid #c4c4c4; 
+    height: 75px; 
+    width: 500px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_s8:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+
+    .textbox_login {
+    background: #F1F1F1 url(../../html-generator.weebly.com/files/theme/input-text-40.html) no-repeat;
+    background-position: 5px -7px !important;
+    padding: 10px 10px 10px 25px;
+    width: 270px;
+    border: 1px solid #CCC;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 1px 1px #ccc inset, 0 1px 0 #fff;
+    -webkit-box-shadow: 0 1px 1px #CCC inset, 0 1px 0 #FFF;
+    box-shadow: 0 1px 1px #CCC inset, 0 1px 0 #FFF;
+}
+
+.textbox_login:focus {
+    background-color: #FFF;
+    border-color: #E8C291;
+    outline: none;
+    -moz-box-shadow: 0 0 0 1px #e8c291 inset;
+    -webkit-box-shadow: 0 0 0 1px #E8C291 inset;
+    box-shadow: 0 0 0 1px #E8C291 inset;
+}
+
+
+
+textbox_user:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_user-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_user { 
+	 background: #F1F1F1 url(../images/Login_User.png) no-repeat;
+	  background-position: 5px 8px !important;
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 200px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 25px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_user:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+
+
+textbox_pass:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_pass-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_pass { 
+	 background: #F1F1F1 url(../images/Login_Pass.png) no-repeat;
+	  background-position: 5px 8px !important;
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 200px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 25px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_pass:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+}
+
+
+
+
+textbox_user_st:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_user_st-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_user_st { 
+	 background: #F1F1F1 url(../images/Login_User.png) no-repeat;
+	  background-position: 5px 8px !important;
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 200px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 25px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_user_st:focus { 
+    outline: none; 
+    border: 1px solid #7EAE0E; 
+    box-shadow: 0px 0px 8px #7EAE0E; 
+    -moz-box-shadow: 0px 0px 8px #7EAE0E; 
+    -webkit-box-shadow: 0px 0px 8px #7EAE0E; 
+} 
+
+
+textbox_pass_st:-webkit-input-placeholder {
+    color: #b5b5b5;
+}
+
+textbox_pass_st-moz-placeholder {
+    color: #b5b5b5;
+}
+.textbox_pass_st { 
+	 background: #F1F1F1 url(../images/Login_Pass.png) no-repeat;
+	  background-position: 5px 8px !important;
+    border: 1px solid #c4c4c4; 
+    height: 20px; 
+    width: 200px; 
+    font-size: 13px; 
+    padding: 4px 4px 4px 25px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+} 
+ 
+.textbox_pass_st:focus { 
+    outline: none; 
+    border: 1px solid #7EAE0E; 
+    box-shadow: 0px 0px 8px #7EAE0E; 
+    -moz-box-shadow: 0px 0px 8px #7EAE0E; 
+    -webkit-box-shadow: 0px 0px 8px #7EAE0E; 
+}  
+
+</style>	 
+
